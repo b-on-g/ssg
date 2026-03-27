@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dev-cmyser.github.io/ssg/sitemap.xml
