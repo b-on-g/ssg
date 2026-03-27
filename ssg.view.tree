@@ -1,0 +1,7 @@
+$bog_ssg $mol_page
+	plugins /
+		<= Theme $mol_theme_auto
+	title <= page_title \$mol SSG
+	body /
+		<= Content $mol_text
+			text <= content_text \
